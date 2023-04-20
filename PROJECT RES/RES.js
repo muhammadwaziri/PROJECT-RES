@@ -1,0 +1,1 @@
+windows.alert("Welcome to our Restuarant")
